@@ -1,5 +1,8 @@
 # ECE444-F2021-Lab6
 
+### Added Unit Test Link
+https://github.com/ECE444-2021Fall/project1-education-pathways-group-7-apollo/blob/main/ui/src/components/Login.test.js#L6
+
 ### TDD Discussion
 #### Pros
 Test driven development forces the developer to have a thorough understanding of each piece of code they write, before they write it. This prompts establishing requirements clearly ahead of time, and gives foresight and reduces the chances of forgetting import aspects of the code later on. Moreover, by writing all these tests, it also forces breaking down code logic into smaller modular chunks. This makes tweaking and refactoring the code later on easier. And of course, the most obvious benefit is the fact that every part of the application is tested, and the app coverage is really high. This is good as a safeguard against regressions. If someone makes code changes, the developers can be sure that the desired behaviour is not lost since the tests will catch a possible regression. 
